@@ -4,9 +4,8 @@
 Açıklama (Description):
 
 Basit ve kullanıcı dostu bir çekiliş uygulaması. Veritabanında tutulan isimler arasından rastgele çekiliş yapar ve kazananları liste halinde ekranda gösterir. Uygulama, çekilişe katılacak isimlerin girilmesi ve kazananların belirlenmesini kolaylaştırır.
-\n
-\n
 
+--
 
 Özellikler (Features):
 
