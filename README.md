@@ -1,33 +1,31 @@
-<pre>
 # Cekilis_Uygulamasi
 
 
-Açıklama (Description):
+Açıklama (Description): <br />
 
-Basit ve kullanıcı dostu bir çekiliş uygulaması. Veritabanında tutulan isimler arasından rastgele çekiliş yapar ve kazananları liste halinde ekranda gösterir. Uygulama, çekilişe katılacak isimlerin girilmesi ve kazananların belirlenmesini kolaylaştırır.
-
-
-Özellikler (Features):
-
-Veritabanı destekli isim saklama (SQLite kullanımı).
-
-Aynı ismin tekrarlanmaması için kontrol mekanizması.
-
-Çekiliş sonrası kazananların dinamik olarak ekranda gösterimi.
-
-Kullanıcıdan toplu isim girişine olanak tanır.
-
-Kullanıcı dostu uyarı ve bilgi mesajları (örneğin, aynı isim zaten kayıtlıysa uyarı gösterir).
-
-Tek bir butonla yeni çekiliş başlatabilme.
-
-
-
-Kullanılan Teknolojiler (Technologies Used):
-
-Python (Tkinter: GUI geliştirme için, SQLite: Veritabanı yönetimi için)
-
-Python'ın dahili random modülü ile rastgele seçim.
-
-Tkinter messagebox ile kullanıcı bilgilendirme.
-</pre>
+Basit ve kullanıcı dostu bir çekiliş uygulaması. Veritabanında tutulan isimler arasından rastgele çekiliş yapar ve kazananları liste halinde ekranda gösterir. Uygulama, çekilişe katılacak isimlerin girilmesi ve kazananların belirlenmesini kolaylaştırır. <br />
+ <br />
+ <br />
+Özellikler (Features): <br />
+ <br />
+Veritabanı destekli isim saklama (SQLite kullanımı). <br />
+ <br />
+Aynı ismin tekrarlanmaması için kontrol mekanizması. <br />
+ <br />
+Çekiliş sonrası kazananların dinamik olarak ekranda gösterimi. <br />
+ <br />
+Kullanıcıdan toplu isim girişine olanak tanır. <br />
+ <br />
+Kullanıcı dostu uyarı ve bilgi mesajları (örneğin, aynı isim zaten kayıtlıysa uyarı gösterir). <br />
+ <br />
+Tek bir butonla yeni çekiliş başlatabilme. <br />
+ <br />
+ <br />
+ <br />
+Kullanılan Teknolojiler (Technologies Used): <br />
+ <br />
+Python (Tkinter: GUI geliştirme için, SQLite: Veritabanı yönetimi için) <br />
+ <br />
+Python'ın dahili random modülü ile rastgele seçim. <br />
+ <br />
+Tkinter messagebox ile kullanıcı bilgilendirme. <br />
