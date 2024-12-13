@@ -22,6 +22,8 @@ Tek bir butonla yeni çekiliş başlatabilme.
 
 Kullanılan Teknolojiler (Technologies Used):
 
-Python (Tkinter: GUI geliştirme için, SQLite: Veritabanı yönetimi için).
+Python (Tkinter: GUI geliştirme için, SQLite: Veritabanı yönetimi için)
+
 Python'ın dahili random modülü ile rastgele seçim.
+
 Tkinter messagebox ile kullanıcı bilgilendirme.
