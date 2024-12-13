@@ -1,3 +1,4 @@
+<pre>
 # Cekilis_Uygulamasi
 
 
@@ -5,7 +6,6 @@ Açıklama (Description):
 
 Basit ve kullanıcı dostu bir çekiliş uygulaması. Veritabanında tutulan isimler arasından rastgele çekiliş yapar ve kazananları liste halinde ekranda gösterir. Uygulama, çekilişe katılacak isimlerin girilmesi ve kazananların belirlenmesini kolaylaştırır.
 
---
 
 Özellikler (Features):
 
@@ -32,3 +32,4 @@ Python (Tkinter: GUI geliştirme için, SQLite: Veritabanı yönetimi için)
 Python'ın dahili random modülü ile rastgele seçim.
 
 Tkinter messagebox ile kullanıcı bilgilendirme.
+</pre>
