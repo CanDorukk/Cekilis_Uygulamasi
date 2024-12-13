@@ -8,10 +8,15 @@ Basit ve kullanıcı dostu bir çekiliş uygulaması. Veritabanında tutulan isi
 Özellikler (Features):
 
 Veritabanı destekli isim saklama (SQLite kullanımı).
+
 Aynı ismin tekrarlanmaması için kontrol mekanizması.
+
 Çekiliş sonrası kazananların dinamik olarak ekranda gösterimi.
+
 Kullanıcıdan toplu isim girişine olanak tanır.
+
 Kullanıcı dostu uyarı ve bilgi mesajları (örneğin, aynı isim zaten kayıtlıysa uyarı gösterir).
+
 Tek bir butonla yeni çekiliş başlatabilme.
 
 
